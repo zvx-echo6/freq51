@@ -7,9 +7,9 @@ The Intermountain Mesh spans two separate meshes: Meshtastic and MeshCore. All s
 
 There are several different channels utilized and there are bots that feed alerts and data into them. All EmCom channel PSKs are empty to eliminate any confusion or accidental copying of additional characters.
 
-| Channel | Key | Purpose                                    | EAS Relay |
+| Channel | QR Code | Purpose                                    | EAS Relay |
 | ------- | --- | ------------------------------------------ | --------- |
-| emcom   | -   | Mesh-wide emergency Communications channel |           |
+| emcom   |![emcom](images/QR-codes/emcom-qr-code.jpg) | Mesh-wide emergency Communications channel |           |
 
 ####  Regional Channels
 
